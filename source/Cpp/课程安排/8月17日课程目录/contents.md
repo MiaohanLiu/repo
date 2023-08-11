@@ -17,9 +17,9 @@
     <tr>
   		<td align="center" valign="middle">9</td>
         <td align="center" valign="middle">08:30-09:20</td>
-        <td align="center" valign="middle">林婷婷</td>
+        <td align="center" valign="middle">高永新</td>
         <td align="center" valign="middle">教授</td>
-        <td align="center" valign="middle">吉林大学</td>
+        <td align="center" valign="middle">合肥工业大学</td>
         <td align="center" valign="middle">震电效应原理
 Principle of seismoelectric effect</td>
     </tr>
