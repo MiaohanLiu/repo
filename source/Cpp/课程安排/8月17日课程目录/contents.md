@@ -20,7 +20,7 @@
         <td align="center" valign="middle">高永新</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">合肥工业大学</td>
-        <td align="center" valign="middle">震电效应原理
+        <td align="center" valign="middle">震电效应原理<br>
 Principle of seismoelectric effect</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ Principle of seismoelectric effect</td>
         <td align="center" valign="middle">白登海</td>
         <td align="center" valign="middle">研究员</td>
         <td align="center" valign="middle">中国科学院地质与地球物理研究所</td>
-        <td align="center" valign="middle">大地电磁观测与应用面临的几个基本难题
+        <td align="center" valign="middle">大地电磁观测与应用面临的几个基本难题<br>
 Some fundamental difficulties in the measurement and application of magnetotelluric method</td>
     </tr>
        <tr>
@@ -62,7 +62,7 @@ Some fundamental difficulties in the measurement and application of magnetotellu
         <td align="center" valign="middle">罗延钟</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">中国地质大学（武汉）</td>
-        <td align="center" valign="middle">电法勘查若干基本概念
+        <td align="center" valign="middle">电法勘查若干基本概念<br>
 Some fundamental concepts in the electric method</td>
     </tr>
 </table>
