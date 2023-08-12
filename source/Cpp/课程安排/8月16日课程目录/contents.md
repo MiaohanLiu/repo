@@ -20,7 +20,7 @@
         <td align="center" valign="middle">任政勇</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">中南大学</td>
-        <td align="center" valign="middle">电磁自适应有限元计算
+        <td align="center" valign="middle">电磁自适应有限元计算<br>
 Adaptive finite element method for geo-electromagnetic induction problems</td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ Adaptive finite element method for geo-electromagnetic induction problems</td>
         <td align="center" valign="middle">刘云鹤</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">吉林大学</td>
-        <td align="center" valign="middle">地球电磁反演理论与应用
+        <td align="center" valign="middle">地球电磁反演理论与应用<br>
 Geo-electromagnetic inverse theory and applications</td>
     </tr>
         <tr>
@@ -38,7 +38,7 @@ Geo-electromagnetic inverse theory and applications</td>
         <td align="center" valign="middle">李建慧</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">中国地质大学（武汉）</td>
-        <td align="center" valign="middle">时间域电磁场计算的频谱法
+        <td align="center" valign="middle">时间域电磁场计算的频谱法<br>
 Spectral methods for calculating time-domain electromagnetic field</td>
     </tr>
         <tr>
@@ -47,7 +47,7 @@ Spectral methods for calculating time-domain electromagnetic field</td>
         <td align="center" valign="middle">周建美</td>
         <td align="center" valign="middle">副教授</td>
         <td align="center" valign="middle">长安大学</td>
-        <td align="center" valign="middle">三维电磁模拟的模型降阶方法
+        <td align="center" valign="middle">三维电磁模拟的模型降阶方法<br>
 Model order reduction methods for 3D electromagnetic modelling</td>
     </tr>
        <tr>
@@ -56,7 +56,7 @@ Model order reduction methods for 3D electromagnetic modelling</td>
         <td align="center" valign="middle">郭振威</td>
         <td align="center" valign="middle">副教授</td>
         <td align="center" valign="middle">中南大学</td>
-        <td align="center" valign="middle">海洋地震电磁联合探测方法技术
+        <td align="center" valign="middle">海洋地震电磁联合探测方法技术<br>
 Marine seismic-EM survey</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Marine seismic-EM survey</td>
         <td align="center" valign="middle">陈儒军</td>
         <td align="center" valign="middle">副教授</td>
         <td align="center" valign="middle">中南大学</td>
-        <td align="center" valign="middle">频谱激电原理与应用
+        <td align="center" valign="middle">频谱激电原理与应用<br>
 Principle and application of spectral induced polarization</td>
     </tr>
         <tr>
@@ -74,7 +74,7 @@ Principle and application of spectral induced polarization</td>
         <td align="center" valign="middle">杨波</td>
         <td align="center" valign="middle">副教授</td>
         <td align="center" valign="middle">浙江大学</td>
-        <td align="center" valign="middle">大地电磁数据处理与三维反演
+        <td align="center" valign="middle">大地电磁数据处理与三维反演<br>
 A Brief Introduction to MT data processing and inversion</td>
     </tr>
         <tr>
@@ -83,7 +83,7 @@ A Brief Introduction to MT data processing and inversion</td>
         <td align="center" valign="middle">杨迪琨</td>
         <td align="center" valign="middle">助理教授</td>
         <td align="center" valign="middle">南方科技大学</td>
-        <td align="center" valign="middle">三维电磁快速并行正反演的观测分解
+        <td align="center" valign="middle">三维电磁快速并行正反演的观测分解<br>
 3D fast parallel simulation and inversion of EM data using survey decomposition</td>
     </tr>
 </table>
