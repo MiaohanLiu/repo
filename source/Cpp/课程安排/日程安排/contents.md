@@ -41,9 +41,9 @@
         <td align="center" valign="middle">短期课程（9-12单元）</td>
     </tr>
         <tr>
-  		<td align="center" valign="middle">14:30-17:00</td>
+  		<td align="center" valign="middle">14:00-17:00</td>
         <td align="center" valign="middle">会议中心音乐厅</td>
-        <td align="center" valign="middle">短期课程（13单元）</td>
+        <td align="center" valign="middle">短期课程（13-14单元）</td>
     </tr>
 
     
