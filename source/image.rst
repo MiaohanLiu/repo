@@ -1,1 +1,1 @@
-.. image:: ./image/校名石.jpg
+.. image:: ./Pic/校名石.jpg
