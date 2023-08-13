@@ -45,4 +45,17 @@
         <td align="center" valign="middle">会议中心音乐厅</td>
         <td align="center" valign="middle">短期课程（13单元）</td>
     </tr>
+
+    
 </table>
+<html>
+<head> 
+<meta charset="utf-8"> 
+</head>
+<body>
+
+ <p><img src="./路线图.jpg" alt="会议中心位置图" ></p>
+
+
+</body>
+</html>
