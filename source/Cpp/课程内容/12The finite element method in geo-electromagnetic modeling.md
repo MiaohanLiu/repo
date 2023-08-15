@@ -5,6 +5,9 @@ I studied physics at the University of Gottingen and received my PhD in 1991. Af
  was dean/vice dean of the Faculty of Geosciences, Geoengineering and Mining from 2013 to 2019, amember of the senate of my university in the years 2015, 2016 and 2019, chairman/designatedchairman of the German Research Council Physics of the Earth from 2013 to 2017, elected memberof the Review Board Geophysics and Geodesy of the German Research Foundation DFG from 2012 to2016, and served for more than a decade for the German Academic Exchange Service. In 2007,became a trustee of the Gerald W. Hohmann Trust for Teaching and Research in Applied ElectricaGeophysics (USA, now the Hohmann Wannamaker Trust) and have been active in chairing andconvening sessions at lAGA,IUGG, lnternational lnduction Workshops, IAMG and EAGE conferencesTogether with my group,l have hosted and organized several national and international conferencesincluding the 4th lnternational Symposium on Three-Dimensional Electromagnetics in Freiberg 2007 was associated editor for Acta Geophysica from 2006 to 2013 and guest editor for GeophysicsJournal of Applied Geophysics, and Earth, Planets and Space. I have been active as a reviewer foralmost all major geophysical journals, several national research foundations and public as well asprivate institutions and facilities. ln 2008/2009, 1 had the chance to stay as a visiting scientist at theInstitute of Geological and Nuclear Sciences, Wellington, New Zealand, and in 2019/2020 at theSchool of Physical Sciences at the University of Adelaide, South Australia I was elected as a memberof the IAGA Executive Committee from 2019 to 2023.
 
 ## 视频链接
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/oPGepNSum19S
 
+#腾讯会议：856-5987-3726
 
 ## 课件下载
