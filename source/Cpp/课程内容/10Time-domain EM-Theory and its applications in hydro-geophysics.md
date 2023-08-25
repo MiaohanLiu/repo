@@ -9,3 +9,5 @@ Aarhus Geolnstruments公司创始人及CEO，丹麦奥胡斯大学兼职教授�
 【Esben Auken-Time domain EM - Theory and application】 https://www.bilibili.com/video/BV1Uh4y1K7e1/?share_source=copy_web
 
 ## 课件下载
+
+https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_7419539717e5421dbcd5707bceb389ea.pdf
