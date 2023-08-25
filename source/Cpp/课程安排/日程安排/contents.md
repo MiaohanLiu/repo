@@ -56,7 +56,6 @@
 <body>
 
 <p><img src="https://s1.imagehub.cc/images/2023/08/25/_20230814224424.jpeg" alt="_20230814224424.jpeg"></p>
-<p><img src="https://s1.imagehub.cc/images/2023/08/25/_20230814224424.jpeg" alt="_20230814224424.jpeg"></p>
 
 </body>
 </html>
