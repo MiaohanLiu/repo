@@ -10,3 +10,5 @@ I studied physics at the University of Gottingen and received my PhD in 1991. Af
 【Klaus Spitzer-Some Thoughts on Electromagnetic Modeling】 https://www.bilibili.com/video/BV1aP411W7YW/?share_source=copy_web
 
 ## 课件下载
+
+https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_30701069afcd4610a561a6789f800b97.pdf
