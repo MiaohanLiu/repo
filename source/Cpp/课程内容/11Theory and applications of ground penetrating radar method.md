@@ -20,3 +20,5 @@ El-Kaliouby holds a bachelor‘s (honor) degree (1987) and master‘s degree (19
 【Hesham EI-Kaliouby-Theory and applications of ground penetrating radar method】 https://www.bilibili.com/video/BV17p4y1E7bp/?share_source=copy_web
 
 ## 课件下载
+
+https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_f6646b6cb6114362925df027ab7f35b3.pdf
