@@ -10,6 +10,8 @@ I was dean/vice dean of the Faculty of Geosciences, Geoengineering and Mining fr
 
 ## 视频链接
 
+<img src="https://s1.imagehub.cc/images/2023/08/28/klaus-.jpeg" alt="klaus-.jpeg" border="0" width="550" height="320"/>
+
 [Klaus Spitzer-Some Thoughts on Electromagnetic Modeling（点击进入）](https://www.bilibili.com/video/BV1aP411W7YW/?share_source=copy_web)
 
 ## 课件下载
