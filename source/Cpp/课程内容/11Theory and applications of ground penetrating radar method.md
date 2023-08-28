@@ -1,6 +1,7 @@
 # 11Theory and applications of ground penetrating radar method
 ## 讲师简介
  
+<img src="https://z4a.net/images/2023/08/28/11-12.md.jpg" alt="Hesham-EI-Kaliouby-.jpeg" border="0" />
 
 Hesham El-Kaliouby is a Professor of Geophysics at the National Research Center in Egypt at the Geophysical Sciences Department. 
 El-Kaliouby was an assistant professor at the Sultan Qaboos University, Oman (2012–2016). He also worked as a consultant in geophysics for the Saudi Geological Survey, Saudi Arabia (2011–2012) and a senior research associate at Lancaster University, UK (2009–2011). Prior to this he was an associate professor at King Abdulaziz University, Saudi Arabia (2005–2009). El-Kaliouby also worked as a postdoctoral researcher for the University of Arizona (2002–2004). 
@@ -17,8 +18,10 @@ El-Kaliouby holds a bachelor‘s (honor) degree (1987) and master‘s degree (19
 
 ## 视频链接
 
-【Hesham EI-Kaliouby-Theory and applications of ground penetrating radar method】 https://www.bilibili.com/video/BV17p4y1E7bp/?share_source=copy_web
+<img src="https://s1.imagehub.cc/images/2023/08/28/Hesham-EI-Kaliouby-.jpeg" alt="Hesham-EI-Kaliouby-.jpeg" border="0" width="550" height="320"/>
+
+[Hesham EI-Kaliouby-Theory and applications of ground penetrating radar method（点击进入）](https://www.bilibili.com/video/BV17p4y1E7bp/?share_source=copy_web)
 
 ## 课件下载
 
-https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_f6646b6cb6114362925df027ab7f35b3.pdf
+[Hesham EI-Kaliouby-Theory and applications of ground penetrating radar method（点击进入）](https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_f6646b6cb6114362925df027ab7f35b3.pdf)
