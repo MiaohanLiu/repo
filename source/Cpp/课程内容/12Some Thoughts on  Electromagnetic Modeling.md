@@ -1,4 +1,4 @@
-# 12The finite element method in geo-electromagnetic modeling
+# 12Some Thoughts on Electromagnetic Modeling
 
 ## 讲师简介
 I studied physics at the University of Gottingen and received my PhD in 1991. Afterwards, I worked asa researcher and lecturer at the Geological Survey in Hannover, the Ecole Polytechnique inMontreal/Canada, and again in Hannover at the Leibniz lnstitute for Applied Geophysics before lcompleted my habilitation at the University of Leipzig in 1999. I became a full Professor of AppliedGeophysics at the Technical University Bergakademie Freiberg in 2000 and was head of the lnstituteof Geophysics and Geoinformatics from 2003 to 2018. My research focus is on geoelectromagneticmethods in the time and frequency domain, particularly on their numerical simulation and inversion. have been working in close cooperation with the nstitute of Numerical Analysis and Optimization ofour university for more than 20 years.
